@@ -19,4 +19,4 @@ Add the html to your page:
 
 Dont forget to inject the directive when you initilize your app
 
-	'ngNetworking'
+	angular.module('MyApp', ['ngRoute', 'ngResource', 'ngNetworking']) //for example
