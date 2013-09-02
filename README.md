@@ -7,6 +7,8 @@ The directive simply sets the width of the element, based on how many outstandin
 
 The css (or your variation of) is the key to making this look and animate properly.
 
+(inspired by [nprogress](https://github.com/rstacruz/nprogress))
+
 ##Usage
 
 Include the CSS
